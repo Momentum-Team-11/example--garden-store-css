@@ -1,0 +1,12 @@
+body {
+  background-color: #EEF5DB;
+}
+
+.nav-link {
+  text-decoration: none;
+  color: purple;
+}
+
+.nav-item a {
+  color: greenyellow;
+}
